@@ -1,16 +1,45 @@
 # toggleprojectscreen
 
-A new Flutter project.
+# Toggle Screen
+## _Toggle screen and Customize nav bar using Scroll Snap list_
 
-## Getting Started
+[![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QMkOyqwEyzvNAqP1imDsk-fwuFm0EWJlYQ&usqp=CAU)](https://nodesource.com/products/nsolid)
 
-This project is a starting point for a Flutter application.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-A few resources to get you started if this is your first Flutter project:
+Toggle Screen is a flutter mobile compatible application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+Toggle Screen requires [Flutter](https://docs.flutter.dev/get-started/install) 3 to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd TOGGLESCREENPROJECT
+flutter run
+```
+
+
+## Plugins
+
+| Plugin | Link |
+| ------ | ------ |
+| Scroll_snap_list | [https://pub.dev/packages/scroll_snap_list] |
+
+
+
+
+#### App Screen Shot
+
+<img src="lib/images/fdw.jpeg" width = "200" >
+<img src="lib/images/fdw2.jpeg" width = "200" >
+<img src="lib/images/fdw3.jpeg" width = "200" >
+<img src="lib/images/fdw4.jpeg" width = "200" >
+
+
+
+**Free App, Hell Yeah!**
+
